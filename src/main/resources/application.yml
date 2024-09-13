@@ -1,0 +1,9 @@
+spring:
+  application:
+  name : FrankyServiceApplication
+server:
+  port: 9092
+greeting:
+  es: "Preguntaste si lo que estas haciendo hoy te acerca al lugar en el que quieres estas mañana?"
+  en: "Did you ask if what you are doing today is bringing you closer to where you want to be tomorrow?"
+  fr: "Avez-vous demandé si ce que vous faites aujourd'hui vous rapproche de l'endroit où vous voulez être demain ?"
